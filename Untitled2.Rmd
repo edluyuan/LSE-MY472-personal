@@ -17,5 +17,6 @@ library(lme4)
 ```{r}
 df <- df(1,2,3)
 df <- tibble(df)
+d <- 1
 ```
 
